@@ -1,0 +1,9 @@
+﻿customer_id,customer_name,gender,dob,city,account_type
+1001,John Smith,M,10-01-1990,New York,SAVINGS
+1002,Sarah Jones,F,20-03-1988,Chicago,CURRENT
+1003,Mike Ross,M,15-05-1992,Dallas,SAVINGS
+1004,Rachel Green,F,18-06-1991,Boston,CURRENT
+1005,Harvey Specter,M,25-07-1985,New York,SAVINGS
+1005,Harvey Specter,M,25-07-1985,New York,SAVINGS
+1006,,M,11-09-1987,Seattle,CURRENT
+1007,Louis Litt,M,01-01-2030,Chicago,SAVINGS
